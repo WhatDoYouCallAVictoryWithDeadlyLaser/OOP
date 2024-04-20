@@ -1,6 +1,5 @@
 public class Question1 {
-    private int number; {
-    }
+    private int number;
 
     public Question1() {
     }
