@@ -9,7 +9,6 @@ public class Lab1 {
 
 //  Question4 question4 = new Question4();
 //  System.out.println(question4.SumAllEvenN());
-
-
+        
     }
 }
