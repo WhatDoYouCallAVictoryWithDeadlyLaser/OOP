@@ -7,6 +7,7 @@ public class Lab1 {
     /*Question3 question3 =new Question3(5);
     question3.HailStone();*/
 
-
+     Question4 question4 = new Question4(5);
+     System.out.println(question4.SumAllEvenN());
     }
 }
