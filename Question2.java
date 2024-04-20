@@ -21,6 +21,6 @@ public class Question2 {
         if (min>x3) {
             min = x3;
         }
-        return x1 + x2 + x3;
+        return(min);
     }
 }
